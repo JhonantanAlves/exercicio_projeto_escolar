@@ -1,2 +1,2 @@
 # exercicio_projeto_escolar
-Projeto Front End Angular
+Projeto Front End React
